@@ -18,11 +18,11 @@ Markdown
 
 ## 1. Introduction
 
-This repository is showcasing my journey and solutions through a series of hands-on Python challenges. These challenges are designed to highlight my ability to apply fundamental and advanced Python concepts. Developed as interactive notebooks in Google Colab, they provide a clear and hands-on look at my practical skills, covering everything from core data types and control flow to functions and debugging. This project demonstrates my proficiency in using Python to solve real-world problems.
+This repository is showcasing my journey and solutions through a series of hands-on Python challenges. These challenges are designed to highlight my ability to apply fundamental and advanced Python concepts. Developed as interactive notebooks in Google Colab, they provide a clear and hands-on look at my practical skills, covering everything from core data types and control flow to functions and debugging.
 
 ## 2. Features
 
-- Demonstrated Python Skills: Clearly shows my understanding and practical use of core Python concepts.
+- Demonstrated Python Skills: Shows my understanding and practical use of core Python concepts.
 - Structured Learning Path: Reflects the step-by-step approach I took to build my Python foundation.
 - Interactive Notebooks: All exercises and explanations are provided in interactive Google Colab notebooks for easy review.
 - Comprehensive Topic Coverage: Covers key Python essentials: data types, lists, sets, tuples, conditionals, loops, functions, and debugging.
@@ -71,7 +71,7 @@ This notebook demonstrates my understanding of basic Python elements: comments, 
 <br>
 Here, I showcase my work with core Python collections: lists (creation, access, updates, removals, and two-dimensional lists), dictionaries (creation, access, updates, removals), and an introduction to tuples and sets.
 <br>
-<a href="https://colab.research.google.com/drive/1zq5gbEBN4nOhzFLMkJLBxX5YL9h-Qk0a?usp=sharing">Open Notebook: Lists and Dictionaries</a>
+<a href="https://colab.research.google.com/drive/1QPVJG8e_pwkTB6qg8sLUW9TCuHj4DkZK?usp=sharing">Open Notebook: Lists and Dictionaries</a>
 </details>
 
 <details>
@@ -111,5 +111,5 @@ This section contains additional exercises I completed to deepen my understandin
 <br>
 This notebook offers practical exercises where I identified and fixed common mistakes in Python code, enhancing my debugging skills. Each example presented code with errors that I resolved.
 <br>
-<a href="https://colab.research.google.com/drive/1685bcWjNugFve0HVQoXmCogAdlkW2ffG?usp=sharing">Open Notebook: Debugging Python Code</a>
+<a href="https://colab.research.google.com/drive/1685bcWjNugFve0HVQoXmCogAdlkW2ffE?usp=sharing">Open Notebook: Debugging Python Code</a>
 </details>
