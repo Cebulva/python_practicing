@@ -12,7 +12,7 @@ Markdown
     - [3.1. Prerequisites](#31-prerequisites)
     - [3.2. Installation](#32-installation)
 - [4. Reviewing the Notebooks](#4-reviewing-the-notebooks)
-- [5. Python Topics & My Notebooks](#5-python-topics-&-my-notebooks)
+- [5. Python Topics and My Notebooks](#5-python-topics-and-my-notebooks)
 
 ---
 
@@ -54,7 +54,7 @@ cd python_practicing
 
 To review these Python practice notebooks, simply click on the provided Google Colab links below. Each link will open a notebook directly in your browser. You can then examine the code cells, their output, and the explanations to understand my work and learning process.
 
-### 5. Python Topics & My Notebooks
+### 5. Python Topics and My Notebooks
 
 This section outlines the fundamental Python concepts I covered in this collection of Google Colab notebooks, demonstrating my understanding of each. Click on each title to expand and access the notebook.
 
