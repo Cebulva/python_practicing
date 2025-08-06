@@ -1,5 +1,3 @@
-Markdown
-
 # [PYTHON PRACTICING]
 
 ---
